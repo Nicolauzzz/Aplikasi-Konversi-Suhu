@@ -38,16 +38,6 @@ Aplikasi Konversi Suhu adalah program sederhana yang dibuat menggunakan Java Swi
 - Java Runtime Environment (JRE) 8 atau lebih tinggi
 - Sistem operasi yang mendukung Java GUI (Windows, Linux, MacOS)
 
-## Cara Menjalankan Program
-1. Pastikan Java sudah terinstal di sistem anda
-2. Compile file Java:
-   ```bash
-   javac KonversiSuhu.java
-   ```
-3. Jalankan program:
-   ```bash
-   java KonversiSuhu
-   ```
 
 ## Error Handling
 Aplikasi dilengkapi dengan sistem penanganan error untuk:
