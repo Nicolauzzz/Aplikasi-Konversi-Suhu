@@ -55,13 +55,6 @@ Aplikasi dilengkapi dengan sistem penanganan error untuk:
 - Input yang kosong
 - Format angka yang tidak valid
 
-## Kontribusi
-Anda dapat berkontribusi pada proyek ini dengan cara:
-1. Fork repository
-2. Buat branch baru untuk fitur anda
-3. Commit perubahan
-4. Push ke branch
-5. Buat Pull Request
 
 ## Lisensi
 [MIT License](LICENSE)
